@@ -1,0 +1,42 @@
+{
+    "name": "io.extendreality.zinnia.unity",
+    "displayName": "Zinnia.Unity",
+    "description": "A collection of design patterns for the Unity software that can be beneficial in (but not limited to) spatial computing development.",
+    "version": "1.14.0",
+    "unity": "2018.3",
+    "unityRelease": "10f1",
+    "keywords": [
+        "pattern",
+        "spatial",
+        "xr",
+        "vr",
+        "ar",
+        "mr"
+    ],
+    "homepage": "https://github.com/ExtendRealityLtd/Zinnia.Unity/",
+    "bugs": {
+        "url": "https://github.com/ExtendRealityLtd/Zinnia.Unity/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/ExtendRealityLtd/Zinnia.Unity.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Extend Reality Ltd",
+        "email": "hello@extendreality.io",
+        "url": "https://github.com/ExtendRealityLtd"
+    },
+    "dependencies": {
+        "io.extendreality.malimbe": "9.6.5"
+    },
+    "files": [
+        "*.md",
+        "*.meta",
+        "*.xml",
+        "Editor",
+        "Runtime",
+        "Dependencies",
+        "Tests"
+    ]
+}
