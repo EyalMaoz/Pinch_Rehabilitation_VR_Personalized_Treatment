@@ -1,6 +1,6 @@
 # Pinch Rehabilitation VR Personalized Treatment
 
-So, this is my and [Bar Attaly](https://github.com/Barattaly) final project in Software Engineering B.sc in Ort Braude College.
+[Bar Attaly](https://github.com/Barattaly) and my final project in Software Engineering B.sc in Ort Braude College.
 
 ## Introduction
 Patients recovering from accidents or strokes often need rehabilitation exercises for improving the performance of their fingers. Specifically the performance of pinch movement is crucial for everyday action such as picking up objects, holding a pen or switching a key. Such practice for the fingers is done within their rehabilitation training but that is often not enough.
